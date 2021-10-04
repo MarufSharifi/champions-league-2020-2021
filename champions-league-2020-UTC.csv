@@ -1,0 +1,126 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Group,Result
+1,1,20/10/2020 16:55,Saint Petersburg Stadium,Zenit,Club Brugge,Group F,1 - 2
+2,1,20/10/2020 16:55,NSK Olimpiyskiy,Dynamo Kyiv,Juventus,Group G,0 - 2
+3,1,20/10/2020 19:00,Roazhon Park,Rennes,Krasnodar,Group E,1 - 1
+4,1,20/10/2020 19:00,Stamford Bridge,Chelsea,Sevilla,Group E,0 - 0
+5,1,20/10/2020 19:00,Stadio Olimpico,Lazio,Dortmund,Group F,3 - 1
+6,1,20/10/2020 19:00,Camp Nou,Barcelona,Ferencváros,Group G,5 - 1
+7,1,20/10/2020 19:00,Parc des Princes,Paris,Man. United,Group H,1 - 2
+8,1,20/10/2020 19:00,RB Arena,Leipzig,Istanbul Basaksehir,Group H,2 - 0
+9,1,21/10/2020 16:55,Stadion Salzburg,Salzburg,Lokomotiv Moskva,Group A,2 - 2
+10,1,21/10/2020 16:55,Estadio Alfredo Di Stefano,Real Madrid,Shakhtar Donetsk,Group B,2 - 3
+11,1,21/10/2020 19:00,Fußball Arena München,Bayern,Atlético,Group A,4 - 0
+12,1,21/10/2020 19:00,Stadio San Siro,Internazionale,Mönchengladbach,Group B,2 - 2
+13,1,21/10/2020 19:00,Stadio Georgios Karaiskakis,Olympiacos,Marseille,Group C,1 - 0
+14,1,21/10/2020 19:00,City of Manchester Stadium,Man. City,Porto,Group C,3 - 1
+15,1,21/10/2020 19:00,Johan Cruijff ArenA,Ajax,Liverpool,Group D,0 - 1
+16,1,21/10/2020 19:00,Arena Herning,Midtjylland,Atalanta,Group D,0 - 4
+17,2,27/10/2020 17:55,Stadion Lokomotiv,Lokomotiv Moskva,Bayern,Group A,1 - 2
+18,2,27/10/2020 17:55,NSK Olimpiyskiy,Shakhtar Donetsk,Internazionale,Group B,0 - 0
+19,2,27/10/2020 20:00,Estadio Metropolitano,Atlético,Salzburg,Group A,3 - 2
+20,2,27/10/2020 20:00,Borussia-Park,Mönchengladbach,Real Madrid,Group B,2 - 2
+21,2,27/10/2020 20:00,Estádio do Dragão,Porto,Olympiacos,Group C,2 - 0
+22,2,27/10/2020 20:00,Stade de Marseille,Marseille,Man. City,Group C,0 - 3
+23,2,27/10/2020 20:00,Stadio di Bergamo,Atalanta,Ajax,Group D,2 - 2
+24,2,27/10/2020 20:00,Anfield,Liverpool,Midtjylland,Group D,2 - 0
+25,2,28/10/2020 17:55,Stadium Krasnodar,Krasnodar,Chelsea,Group E,0 - 4
+26,2,28/10/2020 17:55,Istanbul Basaksehir Fatih Terim Stadyumu,Istanbul Basaksehir,Paris,Group H,0 - 2
+27,2,28/10/2020 20:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,Rennes,Group E,1 - 0
+28,2,28/10/2020 20:00,Jan Breydelstadion,Club Brugge,Lazio,Group F,1 - 1
+29,2,28/10/2020 20:00,BVB Stadion Dortmund,Dortmund,Zenit,Group F,2 - 0
+30,2,28/10/2020 20:00,Ferencváros Stadion,Ferencváros,Dynamo Kyiv,Group G,2 - 2
+31,2,28/10/2020 20:00,Juventus Stadium,Juventus,Barcelona,Group G,0 - 2
+32,2,28/10/2020 20:00,Old Trafford,Man. United,Leipzig,Group H,5 - 0
+33,3,03/11/2020 17:55,Stadion Lokomotiv,Lokomotiv Moskva,Atlético,Group A,1 - 1
+34,3,03/11/2020 17:55,NSK Olimpiyskiy,Shakhtar Donetsk,Mönchengladbach,Group B,0 - 6
+35,3,03/11/2020 20:00,Stadion Salzburg,Salzburg,Bayern,Group A,2 - 6
+36,3,03/11/2020 20:00,Estadio Alfredo Di Stefano,Real Madrid,Internazionale,Group B,3 - 2
+37,3,03/11/2020 20:00,City of Manchester Stadium,Man. City,Olympiacos,Group C,3 - 0
+38,3,03/11/2020 20:00,Estádio do Dragão,Porto,Marseille,Group C,3 - 0
+39,3,03/11/2020 20:00,Arena Herning,Midtjylland,Ajax,Group D,1 - 2
+40,3,03/11/2020 20:00,Stadio di Bergamo,Atalanta,Liverpool,Group D,0 - 5
+41,3,04/11/2020 17:55,Saint Petersburg Stadium,Zenit,Lazio,Group F,1 - 1
+42,3,04/11/2020 17:55,Istanbul Basaksehir Fatih Terim Stadyumu,Istanbul Basaksehir,Man. United,Group H,2 - 1
+43,3,04/11/2020 20:00,Stamford Bridge,Chelsea,Rennes,Group E,3 - 0
+44,3,04/11/2020 20:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,Krasnodar,Group E,3 - 2
+45,3,04/11/2020 20:00,Jan Breydelstadion,Club Brugge,Dortmund,Group F,0 - 3
+46,3,04/11/2020 20:00,Camp Nou,Barcelona,Dynamo Kyiv,Group G,2 - 1
+47,3,04/11/2020 20:00,Puskás Aréna,Ferencváros,Juventus,Group G,1 - 4
+48,3,04/11/2020 20:00,RB Arena,Leipzig,Paris,Group H,2 - 1
+49,4,24/11/2020 17:55,Roazhon Park,Rennes,Chelsea,Group E,1 - 2
+50,4,24/11/2020 17:55,Stadium Krasnodar,Krasnodar,Sevilla,Group E,1 - 2
+51,4,24/11/2020 20:00,Stadio Olimpico,Lazio,Zenit,Group F,3 - 1
+52,4,24/11/2020 20:00,BVB Stadion Dortmund,Dortmund,Club Brugge,Group F,3 - 0
+53,4,24/11/2020 20:00,NSK Olimpiyskiy,Dynamo Kyiv,Barcelona,Group G,0 - 4
+54,4,24/11/2020 20:00,Juventus Stadium,Juventus,Ferencváros,Group G,2 - 1
+55,4,24/11/2020 20:00,Parc des Princes,Paris,Leipzig,Group H,1 - 0
+56,4,24/11/2020 20:00,Old Trafford,Man. United,Istanbul Basaksehir,Group H,4 - 1
+57,4,25/11/2020 17:55,Borussia-Park,Mönchengladbach,Shakhtar Donetsk,Group B,4 - 0
+58,4,25/11/2020 17:55,Stadio Georgios Karaiskakis,Olympiacos,Man. City,Group C,0 - 1
+59,4,25/11/2020 20:00,Fußball Arena München,Bayern,Salzburg,Group A,3 - 1
+60,4,25/11/2020 20:00,Estadio Metropolitano,Atlético,Lokomotiv Moskva,Group A,0 - 0
+61,4,25/11/2020 20:00,Stadio San Siro,Internazionale,Real Madrid,Group B,0 - 2
+62,4,25/11/2020 20:00,Stade de Marseille,Marseille,Porto,Group C,0 - 2
+63,4,25/11/2020 20:00,Johan Cruijff ArenA,Ajax,Midtjylland,Group D,3 - 1
+64,4,25/11/2020 20:00,Anfield,Liverpool,Atalanta,Group D,0 - 2
+65,5,01/12/2020 17:55,Stadion Lokomotiv,Lokomotiv Moskva,Salzburg,Group A,1 - 3
+66,5,01/12/2020 17:55,NSK Olimpiyskiy,Shakhtar Donetsk,Real Madrid,Group B,2 - 0
+67,5,01/12/2020 20:00,Estadio Metropolitano,Atlético,Bayern,Group A,1 - 1
+68,5,01/12/2020 20:00,Borussia-Park,Mönchengladbach,Internazionale,Group B,2 - 3
+69,5,01/12/2020 20:00,Stade de Marseille,Marseille,Olympiacos,Group C,2 - 1
+70,5,01/12/2020 20:00,Estádio do Dragão,Porto,Man. City,Group C,0 - 0
+71,5,01/12/2020 20:00,Anfield,Liverpool,Ajax,Group D,1 - 0
+72,5,01/12/2020 20:00,Stadio di Bergamo,Atalanta,Midtjylland,Group D,1 - 1
+73,5,02/12/2020 17:55,Stadium Krasnodar,Krasnodar,Rennes,Group E,1 - 0
+74,5,02/12/2020 17:55,Istanbul Basaksehir Fatih Terim Stadyumu,Istanbul Basaksehir,Leipzig,Group H,3 - 4
+75,5,02/12/2020 20:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,Chelsea,Group E,0 - 4
+76,5,02/12/2020 20:00,BVB Stadion Dortmund,Dortmund,Lazio,Group F,1 - 1
+77,5,02/12/2020 20:00,Jan Breydelstadion,Club Brugge,Zenit,Group F,3 - 0
+78,5,02/12/2020 20:00,Juventus Stadium,Juventus,Dynamo Kyiv,Group G,3 - 0
+79,5,02/12/2020 20:00,Puskás Aréna,Ferencváros,Barcelona,Group G,0 - 3
+80,5,02/12/2020 20:00,Old Trafford,Man. United,Paris,Group H,1 - 3
+81,6,08/12/2020 17:55,Stadio Olimpico,Lazio,Club Brugge,Group F,2 - 2
+82,6,08/12/2020 17:55,Saint Petersburg Stadium,Zenit,Dortmund,Group F,1 - 2
+83,6,08/12/2020 20:00,Roazhon Park,Rennes,Sevilla,Group E,1 - 3
+84,6,08/12/2020 20:00,Stamford Bridge,Chelsea,Krasnodar,Group E,1 - 1
+85,6,08/12/2020 20:00,NSK Olimpiyskiy,Dynamo Kyiv,Ferencváros,Group G,1 - 0
+86,6,08/12/2020 20:00,Camp Nou,Barcelona,Juventus,Group G,0 - 3
+88,6,08/12/2020 20:00,RB Arena,Leipzig,Man. United,Group H,3 - 2
+87,6,09/12/2020 17:55,Parc des Princes,Paris,Istanbul Basaksehir,Group H,5 - 1
+89,6,09/12/2020 17:55,Johan Cruijff ArenA,Ajax,Atalanta,Group D,0 - 1
+90,6,09/12/2020 17:55,Arena Herning,Midtjylland,Liverpool,Group D,1 - 1
+91,6,09/12/2020 20:00,Fußball Arena München,Bayern,Lokomotiv Moskva,Group A,2 - 0
+92,6,09/12/2020 20:00,Stadion Salzburg,Salzburg,Atlético,Group A,0 - 2
+93,6,09/12/2020 20:00,Stadio San Siro,Internazionale,Shakhtar Donetsk,Group B,0 - 0
+94,6,09/12/2020 20:00,Estadio Alfredo Di Stefano,Real Madrid,Mönchengladbach,Group B,2 - 0
+95,6,09/12/2020 20:00,Stadio Georgios Karaiskakis,Olympiacos,Porto,Group C,0 - 2
+96,6,09/12/2020 20:00,City of Manchester Stadium,Man. City,Marseille,Group C,3 - 0
+97,R16 Game 1,16/02/2021 20:00,Camp Nou,Barcelona,Paris,,1 - 4
+98,R16 Game 1,16/02/2021 20:00,Puskás Aréna,Leipzig,Liverpool,,0 - 2
+99,R16 Game 1,17/02/2021 20:00,Estádio do Dragão,Porto,Juventus,,2 - 1
+100,R16 Game 1,17/02/2021 20:00,Estadio Ramón Sánchez-Pizjuán,Sevilla,Dortmund,,2 - 3
+101,R16 Game 1,23/02/2021 20:00,Arena Nationala,Atlético,Chelsea,,0 - 1
+102,R16 Game 1,23/02/2021 20:00,Stadio Olimpico,Lazio,Bayern,,1 - 4
+103,R16 Game 1,24/02/2021 20:00,Stadio di Bergamo,Atalanta,Real Madrid,,0 - 1
+104,R16 Game 1,24/02/2021 20:00,Puskás Aréna,Mönchengladbach,Man. City,,0 - 2
+105,R16 Game 2,09/03/2021 20:00,Juventus Stadium,Juventus,Porto,,3 - 2
+106,R16 Game 2,09/03/2021 20:00,BVB Stadion Dortmund,Dortmund,Sevilla,,2 - 2
+107,R16 Game 2,10/03/2021 20:00,Puskás Aréna,Liverpool,Leipzig,,2 - 0
+108,R16 Game 2,10/03/2021 20:00,Parc des Princes,Paris,Barcelona,,1 - 1
+109,R16 Game 2,16/03/2021 20:00,Puskás Aréna,Man. City,Mönchengladbach,,2 - 0
+110,R16 Game 2,16/03/2021 20:00,Estadio Alfredo Di Stefano,Real Madrid,Atalanta,,3 - 1
+111,R16 Game 2,17/03/2021 20:00,Stamford Bridge,Chelsea,Atlético,,2 - 0
+112,R16 Game 2,17/03/2021 20:00,Fußball Arena München,Bayern,Lazio,,2 - 1
+113,QF Game 1,06/04/2021 19:00,Estadio Alfredo Di Stefano,Real Madrid,Liverpool,,3 - 1
+114,QF Game 1,06/04/2021 19:00,City of Manchester Stadium,Man. City,Dortmund,,2 - 1
+115,QF Game 1,07/04/2021 19:00,Fußball Arena München,Bayern,Paris,,2 - 3
+116,QF Game 1,07/04/2021 19:00,Estadio Ramón Sánchez-Pizjuán,Porto,Chelsea,,0 - 2
+117,QF Game 2,13/04/2021 19:00,Estadio Ramón Sánchez-Pizjuán,Chelsea,Porto,,0 - 1
+118,QF Game 2,13/04/2021 19:00,Parc des Princes,Paris,Bayern,,0 - 1
+119,QF Game 2,14/04/2021 19:00,BVB Stadion Dortmund,Dortmund,Man. City,,1 - 2
+120,QF Game 2,14/04/2021 19:00,Anfield,Liverpool,Real Madrid,,0 - 0
+121,SF Game 1,27/04/2021 19:00,Estadio Alfredo Di Stefano,Real Madrid,Chelsea,,1 - 1
+122,SF Game 1,28/04/2021 19:00,Parc des Princes,Paris,Man. City,,1 - 2
+123,SF Game 2,04/05/2021 19:00,City of Manchester Stadium,Man. City,Paris,,2 - 0
+124,SF Game 2,05/05/2021 19:00,Stamford Bridge,Chelsea,Real Madrid,,2 - 0
+125,Final,29/05/2021 19:00,Estádio do Dragão,Man. City,Chelsea,,0 - 1
