@@ -1,25 +1,18 @@
-import fs from "fs";
+import { CsvFileReader } from "./CsvFileReader";
+import { distractTheScores } from "./utils";
 
-const matches = fs
-  .readFileSync("football.csv", {
-    encoding: "utf-8",
-  })
-  .split("\n")
-  .map((row: string): string[] => {
-    return row.split(",");
-  });
+const reader = new CsvFileReader("football.csv");
+reader.reade();
 
 let chelseaWon = 0;
 
-for (const match of matches) {
+for (const match of reader.data) {
   if (match[4] === "Chelsea") {
-    const result = match[7].split("-");
-    if (result[0] > result[1]) {
+    if (distractTheScores(match[7])[0] > distractTheScores(match[7])[1]) {
       chelseaWon++;
     }
   } else if (match[5] === "Chelsea") {
-    const result = match[7].split("-");
-    if (result[1] > result[0]) {
+    if (distractTheScores(match[7])[1] > distractTheScores(match[7])[0]) {
       chelseaWon++;
     }
   }
